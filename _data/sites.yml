@@ -88,11 +88,6 @@
   size: 56
   last_checked: 2022-08-17
 
-- domain: adam.sr
-  url: https://adam.sr/
-  size: 109
-  last_checked: 2022-11-22
-
 - domain: adityatelange.in
   url: https://adityatelange.in/
   size: 267
@@ -570,8 +565,8 @@
 
 - domain: codingbobby.xyz
   url: https://codingbobby.xyz/
-  size: 164
-  last_checked: 2022-05-06
+  size: 107
+  last_checked: 2022-11-26
 
 - domain: codingotaku.com
   url: https://codingotaku.com/
@@ -722,11 +717,6 @@
   url: https://devcara.com
   size: 4.62
   last_checked: 2022-06-02
-  
-- domain: devilinside.me
-  url: https://devilinside.me
-  size: 326
-  last_checked: 2022-11-21
 
 - domain: diicorp95.neonarod.com
   url: http://diicorp95.neonarod.com/
@@ -1142,11 +1132,6 @@
   url: https://herman.bearblog.dev/
   size: 6.5
   last_checked: 2022-09-12
-
-- domain: hjr265.me
-  url: https://hjr265.me/
-  size: 111
-  last_checked: 2022-11-24
 
 - domain: hmbrg.org
   url: https://hmbrg.org/
@@ -2038,11 +2023,6 @@
   size: 61.8
   last_checked: 2022-05-06
 
-- domain: rico040.xyz
-  url: https://rico040.xyz/
-  size: 99
-  last_checked: 2022-11-23
-
 - domain: riedler.wien
   url: http://riedler.wien/music/
   size: 138
@@ -2383,11 +2363,6 @@
   size: 488
   last_checked: 2022-05-15
 
-- domain: tianheg.xyz
-  url: https://tianheg.xyz/
-  size: 101
-  last_checked: 2022-11-24
-
 - domain: ticklethepanda.dev
   url: https://www.ticklethepanda.dev/
   size: 407
@@ -2567,11 +2542,11 @@
   url: https://wor.do/
   size: 349
   last_checked: 2022-04-26
- 
-- domain: wrzeczak.net
-  url: https://wrzeczak.net/
-  size: 35.4
-  last_checked: 2022-11-24
+
+- domain: www.yidajiabei.xyz
+  url: https://www.yidajiabei.xyz/
+  size: 103
+  last_checked: 2022-06-16
 
 - domain: xidoc.nim.town
   url: http://xidoc.nim.town/
@@ -2672,11 +2647,6 @@
   url: https://zserge.com/
   size: 20.6
   last_checked: 2022-05-13
-  
-- domain: zue.ge
-  url: https://zue.ge/
-  size: 198
-  last_checked: 2022-11-24
 
 - domain: zwbetz.com
   url: https://zwbetz.com/
